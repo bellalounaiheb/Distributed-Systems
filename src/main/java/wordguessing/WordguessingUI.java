@@ -134,7 +134,6 @@ public class WordguessingUI extends javax.swing.JFrame {
             connectButton.setText("Connect");
         }
 
-// TODO add your handling code here:
     }//GEN-LAST:event_connectButtonActionPerformed
 
     public static void main(String args[]) {
