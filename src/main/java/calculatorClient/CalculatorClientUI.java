@@ -99,7 +99,7 @@ public class CalculatorClientUI extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void compute(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_compute
+    private void compute(java.awt.event.ActionEvent evt) {
         int num1;
         try{
             num1 = Integer.parseInt(number1.getText());
